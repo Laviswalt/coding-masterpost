@@ -4,3 +4,5 @@
 [Derek Banas - Programming, Web Dev Tutorials](https://www.youtube.com/user/derekbanas/featured)
 
 [Eli the Computer Guy - Tech Talks, Programming](https://www.youtube.com/user/elithecomputerguy/featured)
+
+[Daniel Shiffman - Processing/JavaScript](https://www.youtube.com/user/shiffman)
